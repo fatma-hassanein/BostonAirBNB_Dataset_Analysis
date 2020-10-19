@@ -12,11 +12,11 @@ The analysis done on the dataset was meant to answer the below questions:
 
 ## Contents
 
-The repo contains the python file that has all the detailed documented code for the analysis.
+The repo contains the python file that has all the detailed documented code for the analysis. In addition, it has a md file a blog for my findings and an images folder with the figures used to visualize these findings.
 
 ## Conclusion
 
-The results correlated with the visualization is available in my blog.
+The results correlated with the visualization is available in my blog.md file inside this repo.
 
 ## Dependencies
 
@@ -29,4 +29,4 @@ The results correlated with the visualization is available in my blog.
 
 ## Acknowledgements
 
-Thanks to the support from Kaggle, StackOverFlow and all supporting coding blogs on Google that helped me finish this project.
+Thanks to the support from Kaggle, StackOverFlow and all supporting coding blogs on Google that helped me finish this project. I thank as well Wikipedia for the information I knew and wrote about Boston City
