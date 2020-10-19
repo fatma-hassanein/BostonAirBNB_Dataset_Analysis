@@ -1,6 +1,6 @@
 # Boston AirBNB Analysis Blog Post
 
-![alt text](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/Analysis_introImage.jpg?raw=true)
+![intro_image](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/Analysis_introImage.jpg?raw=true)
 
 ## Overview
 
@@ -29,32 +29,37 @@ Starting with my first question, an analysis was done by averaging the renting p
 The figure showed significant increase in the prices aprroaching the end of the year and Christmas Holidays. 
 November, December and January ranked to have the highest prices throughout the year, this is expected since most of the world has higher renting prices during holidays specially New Year's Eve.
 
-(figure 1)
+![figure_1](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure1.png?raw=true)
 
 In my next question, I wanted to analyze the occupation of the residences in Boston throughout the year so I measured the availability each month and plotted it as well in the figure below. It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
 This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
 
-(figure 2)
+![figure_2](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure2.png?raw=true)
 
 In my next two questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
 
 So, I first looked at the cancellation policies to find if there is a specific policy used mostly around Boston and if the cancelation policy is correlated with the prices offered for this residence. As shown in the below figures, the first figure showed that strict policy was the mostly used at that time followed by the flexible and the moderate policies.
 
-(Figure 3)
+![figure_3](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure3.png?raw=true)
 
 Moreover, in the second figure, it is obvious that the policies become more strict when the price of the resident is more expensive which some how makes sense since as a resident owner, the place is probably more valuable and affecting more his/her revenue in case of cancelation.
 
-(Figure 4)
+![figure_4](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure4.png?raw=true)
 
 Finally, analysis was done on the available reviews scores in Boston. 
 The results as shown below in the figure were very positive showing that most renters are very satisfied with theier residences which is a very encouraging indicator to recommend AirBNB as an option for residences renting in Boston. 
 
-(Figure 5)
+![figure_5](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure5.png?raw=true)
 
 Further analysis was done to correlate the relation between reviews and prices but turned out to be a bit disappointing. 
 That is because as shown in the below figure, price is not that related to the customer satisfaction and his/her review about the residence.
 
-(Figure 6)
+![figure_6](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure6.png?raw=true)
 
 ## Conclusion
 
+Suming all up after these long analysis:
+* It seems like Boston is a touristic destination specially during Winter and Holiday season. 
+* The prices of its rentals increase during these times and the occupation increases.
+* The cancellation policies are divided almost equally between strict and moderate to flexible but the policy can be a great indicator for the offered price since they turned to be correlated.
+* The reviews average is significantly great in Boston rentals but it is not related to the price of the resident which can be a start of a new analysis to find out more aspects that can correlate with the renters satisfaction like the location of the place, its quality and size.
