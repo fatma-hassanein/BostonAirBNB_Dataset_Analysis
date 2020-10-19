@@ -29,4 +29,4 @@ The results correlated with the visualization is available in my blog.md file in
 
 ## Acknowledgements
 
-Thanks to the support from Kaggle, StackOverFlow and all supporting coding blogs on Google that helped me finish this project. I thank as well Wikipedia for the information I knew and wrote about Boston City
+Thanks to the support from Kaggle, StackOverFlow and all supporting coding blogs on Google that helped me finish this project. I thank as well Wikipedia for the information I knew and wrote about Boston City.
