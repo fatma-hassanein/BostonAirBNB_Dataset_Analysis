@@ -40,7 +40,7 @@ For this question, I wanted to analyze the occupation of the residences in Bosto
 
 ![figure_2](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure2.png?raw=true)
 
-It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
+It shows that the occupation increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
 This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
 
 In my next three questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
