@@ -1,4 +1,4 @@
-# Boston AirBNB Analysis Blog Post
+# How to relate Boston AirBNB Residences to the renters and their satisfaction
 
 ![intro_image](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/Analysis_introImage.jpg?raw=true)
 
@@ -25,20 +25,26 @@ In the next section, you will find explanation for each question in brief and a 
 
 ## Findings
 
-Starting with my first question, an analysis was done by averaging the renting prices of residences for a month and plotting the trend for the available year as shown in the figure below.
+#### *Q1. When was the most expensive month to rent in Boston ?*
+
+To answer my first question, an analysis was done by averaging the renting prices of residences for a month and plotting the trend for the available year as shown in the figure below.
 The figure showed significant increase in the prices aprroaching the end of the year and Christmas Holidays. 
 November, December and January ranked to have the highest prices throughout the year, this is expected since most of the world has higher renting prices during holidays specially New Year's Eve.
 
 ![figure_1](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure1.png?raw=true)
 
-In my next question, I wanted to analyze the occupation of the residences in Boston throughout the year so I measured the availability each month and plotted it as well in the figure below. It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
+#### *Q2. What is the average availability each month ?*
+
+For this question, I wanted to analyze the occupation of the residences in Boston throughout the year so I measured the availability each month and plotted it as well in the figure below. It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
 This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
 
 ![figure_2](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure2.png?raw=true)
 
-In my next two questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
+In my next three questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
 
-So, I first looked at the cancellation policies to find if there is a specific policy used mostly around Boston and if the cancelation policy is correlated with the prices offered for this residence. As shown in the below figures, the first figure showed that strict policy was the mostly used at that time followed by the flexible and the moderate policies.
+#### *Q3. What is the most used cancelation policy in Boston ?*
+
+Well, I looked at the cancellation policies to find if there is a specific policy used mostly around Boston and then, I checked as well if the cancelation policy is correlated with the prices offered for this residence. As shown in the below figures, the first figure showed that strict policy was the mostly used at that time followed by the flexible and the moderate policies.
 
 ![figure_3](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure3.png?raw=true)
 
@@ -46,10 +52,14 @@ Moreover, in the second figure, it is obvious that the policies become more stri
 
 ![figure_4](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure4.png?raw=true)
 
-Finally, analysis was done on the available reviews scores in Boston. 
+#### *Q4. What is the average review score for Boston residences ?*
+
+Analysis was done on the available reviews scores in Boston. 
 The results as shown below in the figure were very positive showing that most renters are very satisfied with theier residences which is a very encouraging indicator to recommend AirBNB as an option for residences renting in Boston. 
 
 ![figure_5](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure5.png?raw=true)
+
+#### *Q5. Is the reviews correlated with the price ?*
 
 Further analysis was done to correlate the relation between reviews and prices but turned out to be a bit disappointing. 
 That is because as shown in the below figure, price is not that related to the customer satisfaction and his/her review about the residence.
