@@ -28,27 +28,32 @@ In the next section, you will find explanation for each question in brief and a 
 #### *Q1. When was the most expensive month to rent in Boston ?*
 
 To answer my first question, an analysis was done by averaging the renting prices of residences for a month and plotting the trend for the available year as shown in the figure below.
-The figure showed significant increase in the prices aprroaching the end of the year and Christmas Holidays. 
-November, December and January ranked to have the highest prices throughout the year, this is expected since most of the world has higher renting prices during holidays specially New Year's Eve.
 
 ![figure_1](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure1.png?raw=true)
 
+The figure showed significant increase in the prices aprroaching the end of the year and Christmas Holidays. 
+November, December and January ranked to have the highest prices throughout the year, this is expected since most of the world has higher renting prices during holidays specially New Year's Eve.
+
 #### *Q2. What is the average availability each month ?*
 
-For this question, I wanted to analyze the occupation of the residences in Boston throughout the year so I measured the availability each month and plotted it as well in the figure below. It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
-This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
+For this question, I wanted to analyze the occupation of the residences in Boston throughout the year so I measured the availability each month and plotted it as well in the figure below.
 
 ![figure_2](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure2.png?raw=true)
+
+It shows that the availability increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
+This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
 
 In my next three questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
 
 #### *Q3. What is the most used cancelation policy in Boston ?*
 
-Well, I looked at the cancellation policies to find if there is a specific policy used mostly around Boston and then, I checked as well if the cancelation policy is correlated with the prices offered for this residence. As shown in the below figures, the first figure showed that strict policy was the mostly used at that time followed by the flexible and the moderate policies.
+Well, I looked at the cancellation policies to find if there is a specific policy used mostly around Boston and then, I checked as well if the cancelation policy is correlated with the prices offered for this residence. 
+
+The below figure showed that strict policy was the mostly used at that time followed by the flexible and the moderate policies.
 
 ![figure_3](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure3.png?raw=true)
 
-Moreover, in the second figure, it is obvious that the policies become more strict when the price of the resident is more expensive which some how makes sense since as a resident owner, the place is probably more valuable and affecting more his/her revenue in case of cancelation.
+Moreover, in the second figure below, it is obvious that the policies become more strict when the price of the resident is more expensive which some how makes sense since as a resident owner, the place is probably more valuable and affecting more his/her revenue in case of cancelation.
 
 ![figure_4](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure4.png?raw=true)
 
