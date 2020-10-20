@@ -1,4 +1,4 @@
-# How to relate Boston AirBNB Residences to the renters and their satisfaction
+# How to increase Boston AirBNB Residences Occupation ?
 
 ![intro_image](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/Analysis_introImage.jpg?raw=true)
 
@@ -40,10 +40,12 @@ For this question, I wanted to analyze the occupation of the residences in Bosto
 
 ![figure_2](https://github.com/fatma-hassanein/BostonAirBNB_Dataset_Analysis/blob/main/images/figure2.png?raw=true)
 
-It shows that the occupation increased during almost the same months that the prices increased which is near the Holidays season and during the Winter.
-This indicates that Boston is one of the targeted destinations during Winter and Holidays season.
+It shows that the occupation decrease during almost the same months that the prices increased.
+This indicates one of two conclusions, either that Boston is not one of the targeted destinations during Winter and Holidays season or the increase in the prices during this time affected the reservation using AirBNB and the renters used another way to find a resident in the city. 
 
-In my next three questions, I wanted to figure out the aspects that can affect or be affected by the price so I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
+A significant finding as well is that the occupation in Boston is almost 50% on average throughout the year so this make us question the reason for that and study another aspects in the residence.
+
+In my next three questions, I wanted to figure out the aspects that can affect the price or the renters satisfaction and their willingness to rent in Boston. So, I made some analysis to study some of the properties in the dataset and correlate its relation to the price if needed.
 
 #### *Q3. What is the most used cancelation policy in Boston ?*
 
@@ -74,7 +76,9 @@ That is because as shown in the below figure, price is not that related to the c
 ## Conclusion
 
 Suming all up after these long analysis:
-* It seems like Boston is a touristic destination specially during Winter and Holiday season. 
-* The prices of its rentals increase during these times and the occupation increases.
+* Boston is a touristic destination and a targeted city for education and enterpreneurship. 
+* The rentals in Boston during Winter are over-priced which can be affecting the occupation.
 * The cancellation policies are divided almost equally between strict and moderate to flexible but the policy can be a great indicator for the offered price since they turned to be correlated.
-* The reviews average is significantly great in Boston rentals but it is not related to the price of the resident which can be a start of a new analysis to find out more aspects that can correlate with the renters satisfaction like the location of the place, its quality and size.
+* The reviews average is significantly great in Boston rentals but it is not related to the price of the resident so that means that the residences in Boston are satisfying.
+* There are missing revenue oppurtunities for AirBNB since the average occupation is 50% and the renters are satisfied so further analysis is required to find the reasons behind the low occupation despite the good service. 
+* Pricing techniques sepcially during different seasons can be a reason for low occupation which can increase by performing more analysis to find aspects that affect the price and encourage owners and AirBNB to follow a scientific way to specify each residence price.
